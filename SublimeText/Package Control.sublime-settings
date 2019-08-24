@@ -1,0 +1,16 @@
+{
+  "installed_packages":
+  [
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "Babel",
+    "Emmet",
+    "ERB Snippets",
+    "Git",
+    "GitGutter",
+    "Package Control",
+    "SCSS",
+    "SublimeLinter",
+    "SublimeLinter-rubocop"
+  ]
+}

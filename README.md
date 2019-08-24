@@ -10,3 +10,10 @@ $ brew/brew.sh
 ```bash
 $ find ~/dotfiles/git -type f | xargs -I file ln -fs file ~/
 ```
+
+### SublimeText
+
+```bash
+$ chmod u+x SublimeText/sublime.sh # Make sure you can execute the file
+$ SublimeText/sublime.sh
+```

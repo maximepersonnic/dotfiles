@@ -4,3 +4,4 @@ brew 'git'
 # Casks
 cask 'docker'
 cask 'firefox'
+cask 'sublime-text'
