@@ -11,7 +11,7 @@
 
 [core]
   pager = less -FRSX
-	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+  editor = vim
 
 [alias]
   co = checkout
@@ -46,6 +46,7 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+
 [user]
 	email = maxime.personnic@hotmail.fr
 	name = maxime personnic
