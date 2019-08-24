@@ -30,3 +30,9 @@ $ zsh/zsh.sh
 ```bash
 $ cp ssh/config ~/.ssh/config
 ```
+
+### VS Code
+
+```bash
+$ vscode/vscode.sh
+```

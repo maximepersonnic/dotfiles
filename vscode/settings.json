@@ -1,0 +1,167 @@
+{
+    "breadcrumbs.enabled": true,
+    "debug.showInStatusBar": "never",
+    "editor.dragAndDrop": false,
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.openEditors.visible": 0,
+    "explorer.sortOrder": "type",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "onWindowChange",
+    "files.defaultLanguage": "markdown",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "markdown.extension.toc.githubCompatibility": true,
+    "markdown.extension.toc.levels": "2..6",
+    "search.showLineNumbers": true,
+    "search.useGlobalIgnoreFiles": true,
+    "solargraph.checkGemVersion": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.copyOnSelection": true,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.fontAliasing": "auto",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.settings.editor": "json",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "newUntitledFile",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.vagrant": true,
+        "**/.vscode": true,
+        "**/.sass-cache": true,
+        "**/.byebug_history": true
+    },
+    "[php]": {
+        "editor.tabSize": 4,
+    },
+    "[ruby]": {
+        "editor.tabSize": 2,
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "emmet.includeLanguages": {
+        "blade.php": "html",
+        "vue": "html"
+    },
+    "files.associations": {
+        ".php_cs": "php",
+        ".php_cs.dist": "php",
+        "*.scss": "sass",
+        "*.css": "postcss",
+        "*.yml.j2": "yaml",
+        "*.toml.j2": "toml",
+        "*.json.j2": "json",
+        "hosts": "ini",
+        "*.conf.j2": "ini",
+        "nginx.conf.j2": "NGINX",
+        "Dockerfile.j2": "dockerfile",
+        "Dockerfile.prod": "dockerfile",
+        ".env.j2": "ini",
+        ".zshrc.j2": "ini",
+        ".env": "ini",
+        ".env.testing": "ini",
+        ".env.example": "ini",
+        ".env.travis": "ini",
+        "**/defaults/**/*": "ansible",
+        "**/tasks/**/*.yml" : "ansible",
+        "**/handler/*.yml" : "ansible",
+        "**/*_vars/**/*.yml" : "ansible",
+        "**/roles/**/*.yml" : "ansible",
+        "**/playbooks/**/*.yml" : "ansible",
+        "**/*ansible*/**/*.yml" : "ansible",
+        "**/vars/**/*.yml": "ansible",
+        "**/inventory/*/*": "ansible"
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+
+        "**/css": true,
+        "**/js": true,
+
+        "**/public/packs": true,
+        "**/public/packs-test": true,
+
+        "storage/framework/views": true,
+        "storage/debugbar": true,
+        "composer.lock": true,
+        "package-lock.lock": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/dist/**": true,
+        "**/vendor/**": true,
+        "**/storage/tmp/**": true
+    },
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orange",
+            "value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "C# Purple",
+            "value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ]
+}
