@@ -24,3 +24,9 @@ $ SublimeText/sublime.sh
 $ chmod u+x zsh/zsh.sh # Make sure you can execute the file
 $ zsh/zsh.sh
 ```
+
+### SSH
+
+```bash
+$ cp ssh/config ~/.ssh/config
+```
