@@ -17,3 +17,10 @@ $ find ~/dotfiles/git -type f | xargs -I file ln -fs file ~/
 $ chmod u+x SublimeText/sublime.sh # Make sure you can execute the file
 $ SublimeText/sublime.sh
 ```
+
+### ZSH
+
+```bash
+$ chmod u+x zsh/zsh.sh # Make sure you can execute the file
+$ zsh/zsh.sh
+```
