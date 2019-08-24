@@ -1,0 +1,6 @@
+# install packages
+brew 'git'
+
+# Casks
+cask 'docker'
+cask 'firefox'
