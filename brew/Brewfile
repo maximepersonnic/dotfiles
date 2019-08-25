@@ -1,6 +1,7 @@
 # install packages
 brew 'git'
 brew 'rbenv'
+brew 'tig'
 
 # Casks
 cask 'docker'
