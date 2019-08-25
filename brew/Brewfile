@@ -2,6 +2,7 @@
 brew 'git'
 brew 'rbenv'
 brew 'tig'
+brew 'yarn'
 
 # Casks
 cask 'docker'
