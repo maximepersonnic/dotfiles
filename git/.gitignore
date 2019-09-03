@@ -3,3 +3,37 @@
 
 # Figaro gem
 config/application.yml
+
+## Databases
+*.sql
+db/*.sqlite3
+
+## Environment normalization:
+/.bundle
+
+## Ruby
+.byebug_history
+
+## Node
+node_modules/
+bower_components/
+.sass-cache
+
+## Ansible
+*.retry
+hosts
+
+## Vagrant
+.vagrant/
+
+## macOS
+*.DS_Store
+
+## Logs
+*.log
+
+## Rspec
+spec/test_files/
+
+## Editors
+.vscode/

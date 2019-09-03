@@ -8,7 +8,7 @@ $ brew/brew.sh
 ### Git
 
 ```bash
-$ find ~/dotfiles/git -type f | xargs -I file ln -fs file ~/
+$ git/git.sh
 ```
 
 ### SublimeText
