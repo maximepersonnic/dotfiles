@@ -19,16 +19,28 @@ $ brew/brew.sh
 $ git/git.sh
 ```
 
+### Rbenv
+
+```bash
+$ ruby/rbenv.sh
+```
+
 ### SublimeText
 
 ```bash
-$ SublimeText/sublime.sh
+$ sublimetext/sublime.sh
 ```
 
 ### ZSH
 
 ```bash
 $ zsh/zsh.sh
+```
+
+### Vim
+
+```bash
+$ vim/vim.sh
 ```
 
 ### SSH
