@@ -3,11 +3,15 @@ brew 'git'
 brew 'rbenv'
 brew 'tig'
 brew 'yarn'
+brew 'hub'
 
 # Casks
 cask 'docker'
 cask 'firefox'
+cask 'google-chrome'
+cask 'iterm2'
 cask 'sublime-text'
+cask 'vlc'
 
 # Quick Look plugins
 cask 'qlcolorcode'
