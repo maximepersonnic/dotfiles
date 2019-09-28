@@ -1,7 +1,15 @@
+### Clone the project
+
+```bash
+$ cd ~
+$ git clone git@github.com:maximepersonnic/dotfiles.git
+$ cd dotfiles
+$ find ~/dotfiles -name '*.sh' | xargs -I file chmod u+x file
+```
+
 ### Brew
 
 ```bash
-$ chmod u+x brew/brew.sh # Make sure you can execute the file
 $ brew/brew.sh
 ```
 
@@ -14,14 +22,12 @@ $ git/git.sh
 ### SublimeText
 
 ```bash
-$ chmod u+x SublimeText/sublime.sh # Make sure you can execute the file
 $ SublimeText/sublime.sh
 ```
 
 ### ZSH
 
 ```bash
-$ chmod u+x zsh/zsh.sh # Make sure you can execute the file
 $ zsh/zsh.sh
 ```
 
