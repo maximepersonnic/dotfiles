@@ -8,3 +8,16 @@ brew 'yarn'
 cask 'docker'
 cask 'firefox'
 cask 'sublime-text'
+
+# Quick Look plugins
+cask 'qlcolorcode'
+cask 'qlimagesize'
+cask 'qlmarkdown'
+cask 'qlstephen'
+cask 'quicklook-csv'
+cask 'quicklook-json'
+
+# Mas
+mas "Magnet", id: 441258766
+mas "Slack", id: 803453959
+mas "TheUnarchiver", id: 425424353
