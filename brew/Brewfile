@@ -12,6 +12,7 @@ cask 'google-chrome'
 cask 'iterm2'
 cask 'sublime-text'
 cask 'vlc'
+cask 'visual-studio-code'
 
 # Quick Look plugins
 cask 'qlcolorcode'
