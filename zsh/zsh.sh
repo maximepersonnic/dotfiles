@@ -51,7 +51,7 @@ else
 fi
 
 # Configuration files
-ln -fs ~/dotfiles/zsh/.zshrc ~/
+ln -fs ~/dotfiles/zsh/.zshrc ~/.zshrc
 
 # If you want to hide the last login banner on logging
 touch ~/.hushlogin
