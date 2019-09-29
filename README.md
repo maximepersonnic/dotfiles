@@ -1,7 +1,7 @@
 ## Xcode
 
 ```bash
-$ xcode-select —install
+$ xcode-select --install
 ```
 
 ## Homebrew
