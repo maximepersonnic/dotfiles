@@ -54,7 +54,7 @@ $ git/git.sh
 ### SublimeText
 
 ```bash
-$ sublimetext/sublime.sh
+$ sublime/sublime.sh
 ```
 
 ### Rbenv
