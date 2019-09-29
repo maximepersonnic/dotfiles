@@ -1,9 +1,13 @@
 # install packages
 brew 'git'
+brew 'hub'
+brew 'imagemagick'
+brew 'jq'
+brew 'openssl'
 brew 'rbenv'
 brew 'tig'
+brew 'wget'
 brew 'yarn'
-brew 'hub'
 
 # Casks
 cask 'docker'
