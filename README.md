@@ -63,12 +63,6 @@ $ sublime/sublime.sh
 $ ruby/rbenv.sh
 ```
 
-### Postgresql
-
-```bash
-$ postgresql/postgresql.sh
-```
-
 ### Vim
 
 ```bash

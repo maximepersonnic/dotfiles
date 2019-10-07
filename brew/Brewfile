@@ -8,6 +8,8 @@ brew 'rbenv'
 brew 'tig'
 brew 'wget'
 brew 'yarn'
+brew 'redis'
+brew 'postgresql'
 
 # Casks
 cask 'avast-security'
