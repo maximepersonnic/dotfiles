@@ -39,12 +39,6 @@ $ find ~/dotfiles -name '*.sh' | xargs -I file chmod u+x file
 $ brew/brew.sh
 ```
 
-### ZSH
-
-```bash
-$ zsh/zsh.sh
-```
-
 ### Git
 
 ```bash
@@ -61,6 +55,12 @@ $ sublime/sublime.sh
 
 ```bash
 $ ruby/rbenv.sh
+```
+
+### ZSH
+
+```bash
+$ zsh/zsh.sh
 ```
 
 ### Vim
