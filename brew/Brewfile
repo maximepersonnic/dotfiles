@@ -37,5 +37,7 @@ cask 'quicklook-json'
 
 # Mas
 mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "Slack", id: 803453959
 mas "TheUnarchiver", id: 425424353
