@@ -23,7 +23,7 @@ cask 'iterm2'
 cask 'keepassxc'
 cask 'sublime-text'
 cask 'vlc'
-cask 'visual-studio-code'
+cask 'vscodium'
 
 # Quick Look plugins
 cask 'qlcolorcode'
