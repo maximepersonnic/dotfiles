@@ -9,6 +9,7 @@ plugins=(gitfast git last-working-dir rails bundler osx docker common-aliases su
 
 # Prevent Homebrew from reporting - https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Analytics.md
 export HOMEBREW_NO_ANALYTICS=1
+export DISABLE_SPRING=true
 
 # Actually load Oh-My-Zsh
 source "${ZSH}/oh-my-zsh.sh"
