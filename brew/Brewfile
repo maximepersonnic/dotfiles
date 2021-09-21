@@ -1,31 +1,31 @@
 # install packages
 brew 'git'
-brew 'hub'
+brew 'gh'
 brew 'imagemagick'
 brew 'jq'
 brew 'openssl'
+brew 'postgresql'
 brew 'rbenv'
+brew 'redis'
 brew 'tig'
 brew 'wget'
 brew 'yarn'
-brew 'redis'
-brew 'postgresql'
 
 # Casks
-cask 'kap'
 cask 'deezer'
 cask 'discord'
 cask 'firefox'
+cask 'gimp'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
-cask 'grandperspective'
-cask 'insomnia'
 cask 'iterm2'
-cask 'keepassxc'
+cask 'kap'
+cask 'postman'
 cask 'sublime-text'
-cask 'telegram'
+cask 'tableplus'
 cask 'vlc'
 cask 'vscodium'
+cask 'zoom'
 
 # Quick Look plugins
 cask 'qlcolorcode'
@@ -36,6 +36,8 @@ cask 'quicklook-csv'
 cask 'quicklook-json'
 
 # Mas
+mas "Keynote", id: 409183694
+mas "Lightweight PDF", id: 1450640351
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
