@@ -31,7 +31,6 @@ cask 'zoom'
 cask 'qlcolorcode'
 cask 'qlimagesize'
 cask 'qlmarkdown'
-cask 'qlstephen'
 cask 'quicklook-csv'
 cask 'quicklook-json'
 
