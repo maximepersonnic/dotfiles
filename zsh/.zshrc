@@ -12,6 +12,7 @@ export HOMEBREW_NO_ANALYTICS=1
 export DISABLE_SPRING=true
 
 # Actually load Oh-My-Zsh
+ZSH_DISABLE_COMPFIX=true
 source "${ZSH}/oh-my-zsh.sh"
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
 
@@ -43,3 +44,5 @@ alias s="bundle exec rails s"
 alias gst="clear && git status"
 alias gs="gst"
 alias undo="git reset HEAD\^"
+
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
