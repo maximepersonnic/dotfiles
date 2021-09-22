@@ -16,10 +16,10 @@ ln -fs ~/dotfiles/ruby/.irbrc ~/
 brew install rbenv
 
 # Install ruby
-rbenv install 2.6.3
+rbenv install 2.7.4
 
 # Set default version ruby
-rbenv global 2.6.3
+rbenv global 2.7.4
 
 # Installing default gems
-gem install rake bundler rspec rubocop rubocop-performance pry pry-byebug hub colored octokit rails awesome_print
+gem install rake bundler rspec rubocop rubocop-performance pry pry-byebug colored octokit rails awesome_print
