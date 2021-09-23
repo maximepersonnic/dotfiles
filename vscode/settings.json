@@ -26,8 +26,6 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "terminal.integrated.copyOnSelection": true,
-    "window.zoomLevel": -1,
-    "workbench.colorTheme": "Default High Contrast",
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.fontAliasing": "auto",
     "workbench.iconTheme": "material-icon-theme",
@@ -166,5 +164,6 @@
     ],
     "git.suggestSmartCommit": false,
     "todo-tree.tree.showScanModeButton": false,
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": -2
 }
