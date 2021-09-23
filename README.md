@@ -1,3 +1,8 @@
+## Setup for Apple Silicon
+
+Duplicate the terminal app, and rename a copy as Terminal Rosetta.
+Press CMD + I on the Terminal Rosetta app, then check the box "Open using Rosetta".
+
 ## Xcode
 
 ```bash
@@ -7,9 +12,7 @@ $ xcode-select --install
 ## Homebrew
 
 ```bash
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ brew cask install keepassxc
-$ brew cask install google-backup-and-sync
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ## SSS key
@@ -35,6 +38,8 @@ $ find ~/dotfiles -name '*.sh' | xargs -I file chmod u+x file
 
 ### Brew
 
+need to be connected to the apple store for mas installation
+
 ```bash
 $ brew/brew.sh
 ```
@@ -43,6 +48,12 @@ $ brew/brew.sh
 
 ```bash
 $ git/git.sh
+```
+
+### ZSH
+
+```bash
+$ zsh/zsh.sh
 ```
 
 ### SublimeText
@@ -55,12 +66,6 @@ $ sublime/sublime.sh
 
 ```bash
 $ ruby/rbenv.sh
-```
-
-### ZSH
-
-```bash
-$ zsh/zsh.sh
 ```
 
 ### Vim
