@@ -165,5 +165,6 @@
     "git.suggestSmartCommit": false,
     "todo-tree.tree.showScanModeButton": false,
     "diffEditor.ignoreTrimWhitespace": false,
-    "window.zoomLevel": -2
+    "window.zoomLevel": -2,
+    "terminal.integrated.shell.osx": "/bin/zsh"
 }
